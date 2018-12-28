@@ -1,12 +1,8 @@
 ---
-description: A quick overview of the topics this document should cover.
+description: Questions to be answered in the Sol Nascente detailed project description.
 ---
 
-# Topics
-
-## Questions
-
-Sol Nascente: Questions project descriptionQuestions to be answered in the Sol Nascente detailed project description. This would be the rough structure of the n-pager.
+# Questions
 
 ### General questions
 

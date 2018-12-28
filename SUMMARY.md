@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Topics](README.md)
+* [Questions](README.md)
 * [License](license.md)
 
