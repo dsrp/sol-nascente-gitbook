@@ -10,8 +10,3 @@
 * [Community](components/community.md)
 * [Economy](components/economy.md)
 
-## Principles
-
-* [Resiliency](principles/resiliency.md)
-* [Minimal action](principles/untitled.md)
-

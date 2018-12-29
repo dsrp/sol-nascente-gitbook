@@ -14,5 +14,10 @@ Based on the Taoism concept of wu wei, a concept literally meaning non-action, n
 
 ## Safe to fail
 
-Allow components to fail independently. This prevents failure cascading wherein a single failure might propagate leading to a full collapse of the system. In systems design, this is often referred to as 'designed to fail', as opposed to a fail-safe approach wherein 
+Allow components to fail independently. This prevents failure cascading wherein a single failure might propagate leading to a full collapse of the system. In systems design, this is often referred to as 'designed to fail', as opposed to a fail-safe approach wherein failure is prevented at all costs.
+
+#### References
+
+* \*\*\*\*[**Safe to fail vs fail safe**](https://devskiller.com/techblog/Safe-to-fail-vs-fail-safe/) **\(IT context\)**
+* \*\*\*\*[**Resilient cities: From fail-safe to safe-to-fail**](https://research.asu.edu/stories/read/resilient-cities-fail-safe-safe-fail)\*\*\*\*
 
