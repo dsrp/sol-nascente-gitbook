@@ -6,6 +6,7 @@
 
 ## Aspects
 
+* [Overview](components/overview.md)
 * [Ecology](components/ecology.md)
 * [Community](components/community.md)
 * [Economy](components/economy.md)
