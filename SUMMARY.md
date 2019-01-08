@@ -17,4 +17,5 @@
 * [Planning](implementation/planning.md)
 * [Land](implementation/land.md)
 * [Community](implementation/community.md)
+* [Housing](implementation/housing.md)
 
