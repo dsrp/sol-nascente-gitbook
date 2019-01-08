@@ -15,4 +15,6 @@
 
 * [Overview](implementation/overview.md)
 * [Planning](implementation/planning.md)
+* [Land](implementation/land.md)
+* [Community](implementation/community.md)
 
